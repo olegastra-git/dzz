@@ -1,0 +1,15 @@
+C:\Users\Дом\source\repos\olegastra-git\dzz\bin\Debug\net7.0\dzz.exe
+C:\Users\Дом\source\repos\olegastra-git\dzz\bin\Debug\net7.0\dzz.deps.json
+C:\Users\Дом\source\repos\olegastra-git\dzz\bin\Debug\net7.0\dzz.runtimeconfig.json
+C:\Users\Дом\source\repos\olegastra-git\dzz\bin\Debug\net7.0\dzz.dll
+C:\Users\Дом\source\repos\olegastra-git\dzz\bin\Debug\net7.0\dzz.pdb
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.csproj.AssemblyReference.cache
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.AssemblyInfoInputs.cache
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.AssemblyInfo.cs
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.dll
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\refint\dzz.dll
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.pdb
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\dzz.genruntimeconfig.cache
+C:\Users\Дом\source\repos\olegastra-git\dzz\obj\Debug\net7.0\ref\dzz.dll
